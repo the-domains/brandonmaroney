@@ -1,0 +1,96 @@
+name: Brandon Maroney
+analytics: {}
+purpose:
+  - type: contact
+    url: 'tel:2145787345'
+    label: Call 214-578-7345
+  - type: contact
+    url: 'mailto:Brandonmaroney@gmail.com'
+    label: Email Me
+github: true
+description: 'Brandon Maroney Art Portfolio '
+author:
+  name: Brandon Maroney
+  url: 'https://www.linkedin.com/in/brandontmaroney'
+  email: brandonmaroney89@gmail.com
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c02fb189-b755-44ad-bb9c-4d85487b16d1.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/c02fb189-b755-44ad-bb9c-4d85487b16d1.jpg
+    metadata:
+      author: []
+      '@context': 'http://schema.org'
+      keywords: []
+      '@type': MediaObject
+      publisher:
+        favicon: null
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      app_links: []
+      related: []
+      description: ''
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+navigation:
+  - type: external
+    name: Linkedin Profile
+    url: 'https://www.linkedin.com/in/brandontmaroney'
+  - type: external
+    name: Behance Profile
+    url: 'https://www.behance.net/brandonmar18ed'
+  - type: external
+    name: Adobe Profile
+    url: 'https://brandonmaroney18.myportfolio.com'
+  - type: external
+    name: Facebook
+    url: 'https://www.facebook.com/maroney18'
+  - type: external
+    name: Instagram
+    url: 'https://www.instagram.com/brandon_dallas89/'
+  - type: external
+    name: Resume
+    url: 'http://brandontmaroney.link'
+layout_spectrum: 0.2898847357053679
+color:
+  lightness: 0.109029365898488
+  brandColors:
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+  saturation: 0.7983797489786244
+  brandStrength: 1
+  rhythmicContrast: 0.5627416911331181
+content_rating:
+  adult: false
+typography_spectrum: 0.4127935314107465
+opengraph: {}
+title: Brandon Maroney
+url: 'https://brandontmaroney.com/'
